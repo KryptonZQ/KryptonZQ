@@ -1,9 +1,11 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=42&pause=900&color=7C83FD&center=true&vCenter=true&width=850&height=100&lines=KSHITIZ+BEHERA;CSE+(AI%2FML)+STUDENT;DEVELOPER+%7C+PROBLEM+SOLVER&repeat=true" alt="Animated Kshitiz Behera introduction"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=230&color=0:090B1A,40:24104F,75:075985,100:090B1A&text=KSHITIZ%20BEHERA&fontSize=52&fontColor=00E5FF&fontAlignY=45&fontFamily=Orbitron&stroke=8B5CF6&strokeWidth=2&animation=twinkling&desc=CSE%20(AI%2FML)%20STUDENT%20%7C%20DEVELOPER&descSize=15&descColor=FFFFFF&descAlignY=67" width="100%" alt="Kshitiz Behera — animated neon banner"/>
 
-### `CSE (AI/ML)` · `Developer` · `Problem Solver`
+<br/>
+
+**CSE (AI/ML) Student · Developer · Problem Solver**
 
 *Building skills. Solving problems. Making progress.*
 
@@ -45,7 +47,7 @@ me = KshitizBehera()
 - 🎓 Computer Science student specializing in AI/ML.
 - 💻 Strengthening my DSA and algorithmic problem-solving skills.
 - ⚙️ Exploring backend development, APIs, and databases.
-- 🌱 Learning through projects and hands-on experimentation.
+- 🌱 Learning by building projects and experimenting with code.
 - 🤝 Interested in open-source collaboration and technical challenges.
 
 ---
@@ -80,7 +82,7 @@ Backend caching practice with JavaScript and Express.
 - Cache invalidation
 - Modular backend structure
 
-[Browse my repositories →](https://github.com/KryptonZQ?tab=repositories)
+[Explore my repositories →](https://github.com/KryptonZQ?tab=repositories)
 
 </td>
 <td width="50%" valign="top">
@@ -93,7 +95,7 @@ Frontend development and dashboard UI practice.
 - JavaScript
 - Layout and interaction
 
-[Browse my repositories →](https://github.com/KryptonZQ?tab=repositories)
+[Explore my repositories →](https://github.com/KryptonZQ?tab=repositories)
 
 </td>
 </tr>
@@ -108,20 +110,20 @@ Improving algorithmic thinking through coding practice.
 - Graph traversal
 - Sorting and recursion
 
-[Browse my repositories →](https://github.com/KryptonZQ?tab=repositories)
+[Explore my repositories →](https://github.com/KryptonZQ?tab=repositories)
 
 </td>
 <td width="50%" valign="top">
 
 ### 🌍 Open Source
 
-Exploring collaborative development and open source.
+Exploring collaborative development.
 
 - Git and GitHub
 - Pull requests
 - Documentation
 
-[Browse my repositories →](https://github.com/KryptonZQ?tab=repositories)
+[Explore my repositories →](https://github.com/KryptonZQ?tab=repositories)
 
 </td>
 </tr>
@@ -134,16 +136,16 @@ Exploring collaborative development and open source.
 <div align="center">
 
 <a href="https://github.com/KryptonZQ">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=KryptonZQ&show_icons=true&hide_border=true&bg_color=0D1117&title_color=7C83FD&icon_color=7C83FD&text_color=C9D1D9&rank_icon=github" alt="GitHub statistics"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=KryptonZQ&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=8B5CF6&text_color=C9D1D9&rank_icon=github" alt="GitHub statistics"/>
 </a>
 
 <a href="https://github.com/KryptonZQ">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KryptonZQ&layout=compact&hide_border=true&bg_color=0D1117&title_color=7C83FD&text_color=C9D1D9" alt="Most used languages"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KryptonZQ&layout=compact&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9" alt="Most used languages"/>
 </a>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=KryptonZQ&theme=tokyonight&hide_border=true&background=0D1117&ring=7C83FD&fire=7C83FD&currStreakLabel=7C83FD" width="70%" alt="GitHub contribution streak"/>
+<img src="https://streak-stats.demolab.com?user=KryptonZQ&theme=tokyonight&hide_border=true&background=0D1117&ring=00E5FF&fire=8B5CF6&currStreakLabel=00E5FF" width="70%" alt="GitHub contribution streak"/>
 
 </div>
 
@@ -161,9 +163,9 @@ Exploring collaborative development and open source.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:533483,50:7C83FD,100:00D9FF&section=footer" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:8B5CF6,50:00E5FF,100:8B5CF6&section=footer" width="100%" alt=""/>
 
-### `Consistency > Motivation`
+### Consistency > Motivation
 
 *Small steps. Real progress. Better code.*
 
