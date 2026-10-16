@@ -1,79 +1,69 @@
- <!-- ================ ANIMATED HEADER ================ -->
+ <h2 align="left">
+  Hola Devs! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h2>
+
+<!-- BANNER -->
+<img width="100%" src="https://github.com/sumanshekhar698/sumanshekhar698/blob/main/assets/lofi_code.gif" />
+
+<!-- PROFILE VIEWS -->
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=KryptonZQ&label=Profile%20views&color=0e75b6&style=flat" alt="KryptonZQ" />
+</p>
+
+<br><br><br>
+
+<!-- OCTOCAT -->
+<img src="https://octodex.github.com/images/murakamicat.png" width="300" align="right">
+
+📍 Hey! I'm **Kshitiz Behera** from India, a Computer Science Engineering student specializing in AI/ML.
+
+I enjoy exploring new technologies, solving problems, and building things that help me learn and grow as a developer.
+
+- 🔭 I'm working on improving my backend development skills and building web applications.
+- 🌱 I'm currently learning Data Structures & Algorithms, Node.js, Express.js, and databases.
+- 🤖 I'm interested in Artificial Intelligence, Machine Learning, and software development.
+- 💻 I enjoy competitive programming and exploring new technologies.
+- ⚡ Fun fact: I believe every bug is just a feature waiting to be understood. 😼
+
+<br clear="right"/>
+
+<!-- LANGUAGES AND TOOLS -->
+<h2 align="left">Languages and Tools:</h2>
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,cpp,java,html,css,js,nodejs,express,postgres,mysql,git,github,vscode&perline=12" />
+  </a>
+</p>
+
+<!-- SOCIAL LINKS -->
+<i><h3 align="right">Connect with me</h3></i>
+
+<p align="right">
+  <a href="https://github.com/KryptonZQ">
+    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/kshitiz-behera-59a56b434/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+<br><br>
+
+<!-- GITHUB STATS -->
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=KryptonZQ&show_icons=true&theme=synthwave&hide_border=true" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=KryptonZQ&theme=merko&hide_border=true&show_icons=true" />
+    </td>
+  </tr>
+</table>
+
+<br><br>
 
 <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,45:172554,100:6D28D9&text=KSHITIZ%20BEHERA&fontSize=48&fontColor=00E5FF&fontAlignY=38&animation=twinkling&desc=CSE%20%7C%20AI%2FML%20%7C%20DEVELOPER&descSize=16&descColor=C4B5FD&descAlignY=58" />
-
-<a href="https://www.linkedin.com/in/kshitiz-behera-59a56b434/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/KryptonZQ">
-<img src="https://img.shields.io/badge/GitHub-KryptonZQ-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
-
----
-
-## <span style="color:#00E5FF">👨‍💻 About Me</span>
-
-```yaml
-name: Kshitiz Behera
-username: KryptonZQ
-education: Computer Science Engineering
-specialization: Artificial Intelligence & Machine Learning
-interests:
-  - Data Structures & Algorithms
-  - Backend Development
-  - Artificial Intelligence & Machine Learning
-  - Problem Solving
-currently_learning:
-  - Advanced DSA
-  - Backend Engineering
-  - Database Management Systems
-goal: Build projects, solve problems, and keep improving.
-```
-
-## ⚡ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,cpp,java,html,css,js,nodejs,express,postgres,mysql,git,github,vscode&theme=dark&perline=7" />
-
-</div>
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=KryptonZQ&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=8B5CF6&text_color=C9D1D9" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KryptonZQ&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9" />
-
-<br/>
-
-<img width="65%" src="https://streak-stats.demolab.com?user=KryptonZQ&theme=tokyonight&hide_border=true&background=0D1117&ring=00E5FF&fire=8B5CF6&currStreakLabel=00E5FF" />
-
-</div>
-
-## 🚀 What I'm Working Towards
-
-- Strengthening my problem-solving and DSA skills.
-- Building practical backend and database projects.
-- Exploring AI/ML and its real-world applications.
-- Becoming a better developer through consistent practice.
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/KryptonZQ">GitHub</a> •
-<a href="https://www.linkedin.com/in/kshitiz-behera-59a56b434/">LinkedIn</a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:6D28D9,50:172554,100:0D1117&section=footer" />
-
-**`BUILD • LEARN • REPEAT`**
-
+  <i>Keep learning. Keep building. Keep pushing forward. 🚀</i>
 </div>
