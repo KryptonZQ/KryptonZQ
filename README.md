@@ -1,61 +1,141 @@
- <h2 align="left">
-  Hey there, I'm Kshitiz! 👋
+ <!-- =============== INTRO =============== -->
+
+<h2 align="left">
+  Hola Devs! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" />
 </h2>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=KryptonZQ&label=Profile%20Views&color=8B5CF6&style=flat-square" alt="Profile views" />
-  <img src="https://img.shields.io/badge/AI%2FML-Student-00C9A7?style=flat-square" alt="AI/ML Student" />
+<!-- =============== BANNER =============== -->
+
+<p align="center">
+  <img width="100%" src="https://github.com/sumanshekhar698/sumanshekhar698/blob/main/assets/lofi_code.gif" alt="Coding banner" />
 </p>
 
-<img src="https://octodex.github.com/images/murakamicat.png" width="160" align="right" alt="GitHub Octocat" />
+<!-- =============== PROFILE VIEWS =============== -->
 
-### 💻 About Me
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=KryptonZQ&label=PROFILE%20VIEWS&color=8B5CF6&style=flat-square" alt="Profile views" />
+</p>
 
-I'm **Kshitiz Behera**, a Computer Science Engineering student specializing in **AI/ML**, from India 🇮🇳.
+<!-- =============== NAME =============== -->
 
-- 🌱 Learning **DSA, backend development, and databases**
-- ⚙️ Exploring **Python, C++, JavaScript, Node.js, and Express**
-- 🧠 Interested in **problem-solving and AI/ML**
-- 🚀 Always learning, building, and improving
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=38&duration=1&pause=999999&color=00E5FF&center=true&vCenter=true&repeat=false&width=650&height=70&lines=KSHITIZ+BEHERA" alt="Kshitiz Behera" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=2500&pause=900&color=A78BFA&center=true&vCenter=true&width=650&lines=Computer+Science+Engineering;Artificial+Intelligence+%26+Machine+Learning;Developer+%7C+Problem+Solver+%7C+Learner" alt="Developer tagline" />
+
+</div>
+
+<br/>
+
+<!-- =============== ABOUT ME =============== -->
+
+<img src="https://octodex.github.com/images/murakamicat.png" width="155" align="right" alt="GitHub Octocat" />
+
+### 👨‍💻 About Me
+
+Hey! I'm **Kshitiz Behera**, a Computer Science Engineering student specializing in **AI/ML**, from India 🇮🇳.
+
+I enjoy exploring technologies, solving programming problems, and building projects that help me grow as a developer.
+
+- 🔭 Exploring backend development and building web applications.
+- 🌱 Learning Data Structures & Algorithms, Node.js, Express.js, and databases.
+- 🤖 Interested in Artificial Intelligence and Machine Learning.
+- 🧩 Enjoy solving problems and understanding how things work.
+- ⚡ Fun fact: I debug my code until the bugs start debugging themselves. 😼
 
 <br clear="right"/>
 
 ---
 
-<h3 align="left">🛠️ Languages and Tools</h3>
+<!-- =============== TECH STACK =============== -->
+
+<h2 align="left">⚙️ Languages and Tools</h2>
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cpp,java,html,css,js,nodejs,express,postgres,mysql,git,github,vscode&perline=7" />
+    <img src="https://skillicons.dev/icons?i=python,cpp,java,html,css,js,nodejs,express,postgres,mysql,git,github,vscode&perline=7" alt="Languages and tools" />
   </a>
 </p>
 
 ---
 
-<h3 align="left">🌐 Connect with Me</h3>
+<!-- =============== CURRENT FOCUS =============== -->
 
-<p align="left">
+<h2 align="left">🚀 Currently Exploring</h2>
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🧠 Problem Solving</h3>
+      <p align="center">Data Structures, Algorithms, and Competitive Programming</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">⚡ Backend Development</h3>
+      <p align="center">Node.js, Express.js, REST APIs, and Databases</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🤖 AI / ML</h3>
+      <p align="center">Exploring intelligent systems and machine learning concepts</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🛠️ Building</h3>
+      <p align="center">Learning through projects, experimentation, and debugging</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+<!-- =============== CONNECT =============== -->
+
+<h2 align="right">🌐 Connect With Me</h2>
+
+<p align="right">
   <a href="https://github.com/KryptonZQ">
-    <img src="https://img.shields.io/badge/GitHub-KryptonZQ-181717?style=for-the-badge&logo=github&logoColor=white" height="28" />
+    <img src="https://img.shields.io/badge/GitHub-KryptonZQ-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://www.linkedin.com/in/kshitiz-behera-59a56b434/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="28" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
 ---
 
-<h3 align="left">📊 GitHub Stats</h3>
+<!-- =============== GITHUB STATS =============== -->
+
+<h2 align="center">📊 GitHub Statistics</h2>
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=KryptonZQ&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KryptonZQ&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  <br/>
-  <img width="60%" src="https://streak-stats.demolab.com?user=KryptonZQ&theme=tokyonight&hide_border=true&background=0D1117" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=KryptonZQ&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=A78BFA&text_color=C9D1D9" alt="GitHub statistics" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KryptonZQ&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9" alt="Top languages" />
+
+<br/><br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=KryptonZQ&theme=tokyonight&hide_border=true&background=0D1117&ring=00E5FF&fire=A78BFA&currStreakLabel=00E5FF" alt="GitHub streak" />
+
 </div>
 
 <br/>
 
+---
+
+<!-- =============== FOOTER =============== -->
+
 <div align="center">
-  <i>「 Learn something new. Build something cool. Repeat. 」</i> ✨
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=LEARN.+BUILD.+DEBUG.+REPEAT.;Turning+ideas+into+code+%F0%9F%9A%80" alt="Footer message" />
+
+<br/>
+
+**Thanks for visiting my profile!** ✨
+
+<a href="https://github.com/KryptonZQ">
+  <img src="https://img.shields.io/badge/Explore%20My%20Repositories-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" />
+</a>
+
 </div>
