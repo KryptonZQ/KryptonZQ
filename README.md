@@ -1,7 +1,11 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0D1117,50:182848,100:533483&text=KSHITIZ%20BEHERA&fontColor=FFFFFF&fontSize=48&fontAlignY=45&stroke=7C83FD&strokeWidth=1&desc=CSE%20(AI%2FML)%20%7C%20DEVELOPER%20%7C%20PROBLEM%20SOLVER&descSize=14&descAlignY=65&animation=fadeIn" width="100%" alt="Kshitiz Behera — Developer Profile"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=42&pause=900&color=7C83FD&center=true&vCenter=true&width=850&height=100&lines=KSHITIZ+BEHERA;CSE+(AI%2FML)+STUDENT;DEVELOPER+%7C+PROBLEM+SOLVER&repeat=true" alt="Animated Kshitiz Behera introduction"/>
+
+### `CSE (AI/ML)` · `Developer` · `Problem Solver`
+
+*Building skills. Solving problems. Making progress.*
 
 <br/>
 
@@ -11,10 +15,6 @@
 <a href="https://www.linkedin.com/in/kshitiz-behera-59a56b434/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
 </a>
-
-<br/><br/>
-
-<i>Building skills. Solving problems. Making progress.</i>
 
 </div>
 
@@ -45,7 +45,7 @@ me = KshitizBehera()
 - 🎓 Computer Science student specializing in AI/ML.
 - 💻 Strengthening my DSA and algorithmic problem-solving skills.
 - ⚙️ Exploring backend development, APIs, and databases.
-- 🌱 Learning by building projects and experimenting with code.
+- 🌱 Learning through projects and hands-on experimentation.
 - 🤝 Interested in open-source collaboration and technical challenges.
 
 ---
@@ -74,54 +74,54 @@ me = KshitizBehera()
 
 ### ⚡ CacheHandling
 
-Backend caching practice using JavaScript and Express.
+Backend caching practice with JavaScript and Express.
 
 - Cache middleware
 - Cache invalidation
 - Modular backend structure
 
-[View my repositories →](https://github.com/KryptonZQ?tab=repositories)
+[Browse my repositories →](https://github.com/KryptonZQ?tab=repositories)
 
 </td>
 <td width="50%" valign="top">
 
 ### 🌐 Student Dashboard
 
-A frontend project focused on building a student dashboard.
+Frontend development and dashboard UI practice.
 
 - HTML and CSS
 - JavaScript
-- UI and layout practice
+- Layout and interaction
 
-[View my repositories →](https://github.com/KryptonZQ?tab=repositories)
+[Browse my repositories →](https://github.com/KryptonZQ?tab=repositories)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🧩 DSA & Algorithm Practice
+### 🧩 DSA Practice
 
-Working on data structures and algorithmic problem-solving.
+Improving algorithmic thinking through coding practice.
 
 - Trees and heaps
 - Graph traversal
 - Sorting and recursion
 
-[Explore repositories →](https://github.com/KryptonZQ?tab=repositories)
+[Browse my repositories →](https://github.com/KryptonZQ?tab=repositories)
 
 </td>
 <td width="50%" valign="top">
 
 ### 🌍 Open Source
 
-Exploring collaborative development and open-source contributions.
+Exploring collaborative development and open source.
 
 - Git and GitHub
 - Pull requests
 - Documentation
 
-[Explore repositories →](https://github.com/KryptonZQ?tab=repositories)
+[Browse my repositories →](https://github.com/KryptonZQ?tab=repositories)
 
 </td>
 </tr>
@@ -151,10 +151,10 @@ Exploring collaborative development and open-source contributions.
 
 ## `// 05. Current Focus`
 
-- [ ] Improve DSA and competitive programming.
+- [ ] Strengthen DSA and competitive programming.
 - [ ] Practise algorithmic coding questions consistently.
 - [ ] Build and polish practical backend projects.
-- [ ] Strengthen database and API design skills.
+- [ ] Improve database and API design skills.
 - [ ] Explore AI/ML projects and open source.
 
 ---
