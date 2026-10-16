@@ -1,13 +1,15 @@
- <!-- =============== INTRO =============== -->
-
-<h2 align="left">
+ <h2 align="left">
   Hola Devs! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" />
 </h2>
 
-<!-- =============== BANNER =============== -->
+<!-- =============== CODING BANNER =============== -->
 
 <p align="center">
-  <img width="100%" src="https://github.com/sumanshekhar698/sumanshekhar698/blob/main/assets/lofi_code.gif" alt="Coding banner" />
+  <img
+    src="https://github.com/sumanshekhar698/sumanshekhar698/blob/main/assets/lofi_code.gif"
+    width="65%"
+    alt="Coding banner"
+  />
 </p>
 
 <!-- =============== PROFILE VIEWS =============== -->
@@ -30,7 +32,7 @@
 
 <!-- =============== ABOUT ME =============== -->
 
-<img src="https://octodex.github.com/images/murakamicat.png" width="155" align="right" alt="GitHub Octocat" />
+<img src="https://octodex.github.com/images/murakamicat.png" width="145" align="right" alt="GitHub Octocat" />
 
 ### 👨‍💻 About Me
 
